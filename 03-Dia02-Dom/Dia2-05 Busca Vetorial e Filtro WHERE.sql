@@ -50,6 +50,9 @@ Produto_ID	Preco	Categoria	Embedding_Texto
 */
 
 
+set statistics io off
+set statistics io on
+
 /***********************************************************
  WHERE (pós-filtro) 
 
